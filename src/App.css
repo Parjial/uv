@@ -687,7 +687,7 @@ a{
 .about-image {
   position: relative;
   width: 50%;
-  max-width: 500px;
+  max-width: 250px;
   height: auto;
   max-height: 400px;
 }
